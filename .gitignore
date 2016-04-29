@@ -234,3 +234,17 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+
+
+# picture
+*.bmp
+*.jpg
+*.png
+*.gif
+*.jpeg
+
+t10k-images-bmp.rar
+documents-export-2016-03-27.zip
+notMNIST_small.tar.gz
+notMNIST_large.tar.gz
+
